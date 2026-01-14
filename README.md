@@ -109,6 +109,12 @@ Sparse ViT (ours)	2.86	557.3	53.30
 - On-device deployment (Jetson / mobile)
 
 ---
+
+## 🔗 Related Repository
+Original team repository:
+https://github.com/Omryuo/Sparse-ViT
+
+---
 ## 📜 License
 
 This project is licensed under the MIT License.
