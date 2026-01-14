@@ -10,6 +10,8 @@ This project was developed as a collaborative team effort.
 **Contributors:**
 - Harsha Bathala
 - Omswaroop T M
+- Sushmith S Mokashi
+- Pranshu Jain
 
 This repository hosts the project on my GitHub profile with full credit to all contributors.
 
