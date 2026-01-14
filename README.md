@@ -4,6 +4,17 @@ This project implements a **Sparse Vision Transformer (ViT)** trained from scrat
 
 ---
 
+## 👥 Team Project
+This project was developed as a collaborative team effort.
+
+**Contributors:**
+- Harsha Bathala
+- Omswaroop T M
+
+This repository hosts the project on my GitHub profile with full credit to all contributors.
+
+---
+
 ## 🚀 Features
 - Dynamic Top-K Sparse Attention via Gumbel-Softmax
 - Continuous Attention Head Importance (L1 regularization)
